@@ -1,4 +1,7 @@
-python-telegram-bot
-openai
+python-telegram-bot==20.7
+openai==1.58.1
 pandas
 numpy
+flask
+gunicorn
+python-dotenv
